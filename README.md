@@ -16,3 +16,4 @@ Bibliotech é um sistema de gerenciamento de biblioteca desenvolvido em PHP. Ele
 - **Verificar empréstimos:** O administrador pode verificar quais usuários estão com livros emprestados.
 - **Adicionar usuários:** Permite ao administrador adicionar novos usuários (administradores ou padrão) ao sistema.
 - **Remover usuários:** Permite ao administrador remover usuários do sistema.
+# bibliotech-php
